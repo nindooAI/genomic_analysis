@@ -1,7 +1,7 @@
 # Genomic Analysis Challenge
 
-#Instructions
+# Instructions
 The instructions are in the file called genomic_analysis_challenge.pdf
 
-#Dataset
+# Dataset
 https://www.ncbi.nlm.nih.gov/CBBresearch/Wilbur/IRET/DATASET/
